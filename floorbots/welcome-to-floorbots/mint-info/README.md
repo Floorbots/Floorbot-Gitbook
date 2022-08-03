@@ -1,7 +1,5 @@
 ---
 description: Release date & tokenomics
-cover: ../../../.gitbook/assets/81.png
-coverY: 252.56975036710716
 ---
 
 # 🏦 Mint Info
@@ -10,10 +8,10 @@ coverY: 252.56975036710716
 
 ### 0 - NFT reserved for a treasury
 
-### 100 - free mints are being given out, via multiple giveaways in multiple channels, before public mint opens.&#x20;
+### 100 - free mints are being given out, via multiple giveaways in multiple channels, before public mint opens.
 
 ### 9900 - NFT from the series available for public mint
 
 ### 0.05 ETH - mint price
 
-### Public mint opens August 22, 2022 @ 22 UTC&#x20;
+### Public mint opens August 22, 2022 @ 22 UTC
