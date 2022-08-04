@@ -1,5 +1,7 @@
 ---
 description: Floorbots are a generative 10k NFT collection running on Ethereum blockchain.
+cover: .gitbook/assets/Floor_Bots_-_Banner_-_Mint_Soon.png
+coverY: -291.80616740088107
 ---
 
 # 💾 Welcome to Floorbots
