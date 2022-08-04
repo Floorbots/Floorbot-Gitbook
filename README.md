@@ -18,7 +18,7 @@ description: Floorbots are a generative 10k NFT collection running on Ethereum b
 
 ### Follow us on Twitter [@Floorbots](https://twitter.com/floorbots) _#DabtheFloor_
 
-### Join [Discord](https://discord.gg/DPNyyPSxQB) by August 14 & enter the drawing for a free Whitelist spot
+### Discord: Opens August 10th
 
 ### _What are Floorbots?_
 
