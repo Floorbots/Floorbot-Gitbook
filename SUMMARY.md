@@ -14,3 +14,4 @@
   * [📚 IP](floorbots/welcome-to-floorbots/ip.md)
   * [⛓ Links](floorbots/welcome-to-floorbots/links/README.md)
     * [🖥 Wallets & Contracts](floorbots/welcome-to-floorbots/links/wallets-and-contracts.md)
+    * [🫂 Team](floorbots/readme/links/team.md)
