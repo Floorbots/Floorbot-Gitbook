@@ -12,4 +12,4 @@ There will be six chances to win a free whitelist spot spread across both social
 
 Please note - if you win a free WL spot and don't use it. Or if you miss the opportunity to mint, it is solely your responsibility/\
 \
-Twitter Whitelist Giveaway #1 opens August 5
+Twitter Whitelist Giveaway #1: [https://twitter.com/floorbots/status/1555569330850476032](https://twitter.com/floorbots/status/1555569330850476032)
