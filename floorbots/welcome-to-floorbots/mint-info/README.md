@@ -1,5 +1,7 @@
 ---
 description: Release date & tokenomics
+cover: ../../../.gitbook/assets/3.png
+coverY: -193.09838472834065
 ---
 
 # 🏦 Mint Info

@@ -6,7 +6,7 @@ coverY: 0
 
 # ⬜ Whitelisting
 
-### Whitelisting opportunities arise on [Twitter](https://twitter.com/floorbots) & in [Discord](https://discord.gg/DPNyyPSxQB).
+### Whitelisting opportunities arise on [Twitter](https://twitter.com/floorbots) & in Discord.
 
 There will be six chances to win a free whitelist spot spread across both social channels. Turn on notifications and be ready to do whatever action is required to earn a free mint.
 
