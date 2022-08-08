@@ -1,5 +1,7 @@
 ---
 description: Floorbots are randomly generated from the following assortments
+cover: ../../../.gitbook/assets/N3WGLSlThrE.jpg
+coverY: -178.568281938326
 ---
 
 # 🧬 Features

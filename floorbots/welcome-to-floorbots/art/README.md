@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/04960459.png
+coverY: 257.9669603524229
+---
+
 # 🖌 Art
 
 ![](../../../.gitbook/assets/1.png) ![](../../../.gitbook/assets/2.png) ![](<../../../.gitbook/assets/3 (1).png>) ![](../../../.gitbook/assets/6.png) ![](../../../.gitbook/assets/8.png) ![](../../../.gitbook/assets/28.png) ![](../../../.gitbook/assets/30.png) ![](../../../.gitbook/assets/55.png) ![](../../../.gitbook/assets/63.png) ![](<../../../.gitbook/assets/81 (1).png>) ![](../../../.gitbook/assets/367.png) ![](../../../.gitbook/assets/unknown2.png)
