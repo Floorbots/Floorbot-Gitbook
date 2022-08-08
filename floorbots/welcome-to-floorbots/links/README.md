@@ -6,11 +6,11 @@ coverY: 0
 
 # ⛓ Links
 
-:globe\_with\_meridians: Minting & Website: TBA
+:globe\_with\_meridians: Minting & Website: [https://floorbots.xyz/](https://floorbots.xyz/)
 
-:black\_circle: Etherscan:  TBA
+:black\_circle: Etherscan: [https://etherscan.io/address/0x19088a3FF37b6E40f847ca66050Db3D201fb899B](https://etherscan.io/address/0x19088a3FF37b6E40f847ca66050Db3D201fb899B)
 
-:blue\_circle: Twitter: [@Floorbots](https://twitter.com/floorbots)&#x20;
+:blue\_circle: Twitter: [@Floorbots](https://twitter.com/floorbots)
 
 :purple\_circle: Discord: TBA
 
@@ -21,6 +21,3 @@ coverY: 0
 ​​:ocean: Open Sea: TBA
 
 :eyes: Looks Rare: TBA
-
-
-
