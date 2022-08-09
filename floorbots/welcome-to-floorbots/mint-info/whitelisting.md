@@ -10,7 +10,7 @@ coverY: 0
 
 There will be six chances to win a free whitelist spot spread across both social channels. Turn on notifications and be ready to do whatever action is required to earn a free mint.
 
-Please note - if you win a free WL spot and don't use it. Or if you miss the opportunity to mint, it is solely your responsibility/\
+Please note - if you win a free WL spot and don't use it. Or if you miss the opportunity to mint, it is solely your responsibility. Details on how to mint from the whiltelist will be provided soon. \
 \
 Twitter Whitelist Giveaway #1: [https://twitter.com/floorbots/status/1555569330850476032](https://twitter.com/floorbots/status/1555569330850476032)
 
