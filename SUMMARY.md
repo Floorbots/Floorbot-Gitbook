@@ -8,6 +8,7 @@
     * [🗓 Calendar](floorbots/welcome-to-floorbots/dabs/calendar.md)
   * [🏦 Mint Info](floorbots/welcome-to-floorbots/mint-info/README.md)
     * [⬜ Whitelisting](floorbots/welcome-to-floorbots/mint-info/whitelisting.md)
+    * [📫 Listings](floorbots/readme/mint-info/listings.md)
   * [🛣 Roadmap](floorbots/welcome-to-floorbots/roadmap.md)
   * [🖌 Art](floorbots/welcome-to-floorbots/art/README.md)
     * [🧬 Features](floorbots/welcome-to-floorbots/art/features.md)
