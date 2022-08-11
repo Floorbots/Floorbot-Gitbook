@@ -8,7 +8,7 @@ coverY: 49.55947136563877
 # 🛣 Roadmap
 
 * [x] First Tweet
-* [ ] Open Discord
+* [x] Open Discord
 * [ ] Giveaway 100 Free WL Spots
 * [ ] Open Public Mint
 * [ ] First secondary market sale
