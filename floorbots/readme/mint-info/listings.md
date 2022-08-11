@@ -14,3 +14,5 @@ Mint List: [https://nftmintlist.com/listing/floorbots/](https://nftmintlist.com/
 
 Artpedia: [https://www.nftartpedia.com/collections/floorbots](https://www.nftartpedia.com/collections/floorbots)
 
+Wenmint: [https://wenmint.io/drop/floor-bots](https://wenmint.io/drop/floor-bots)
+

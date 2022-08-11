@@ -12,7 +12,7 @@ coverY: -291.80616740088107
 
 ### Collection Size: 10,000
 
-### Mint Site: TBA
+### Mint Site: [Floorbots.xyz](https://floorbots.xyz)
 
 ### Open Sea: TBA
 
@@ -20,7 +20,7 @@ coverY: -291.80616740088107
 
 ### Follow us on Twitter [@Floorbots](https://twitter.com/floorbots) _#DabtheFloor_
 
-### Discord: Opens August 10th
+### Discord: [Invite](https://discord.gg/eUbcXxBRFV)
 
 ### _What are Floorbots?_
 
