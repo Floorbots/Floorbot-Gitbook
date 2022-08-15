@@ -15,3 +15,7 @@ Please note - if you win a free WL spot and don't use it. Or if you miss the opp
 Twitter Whitelist Giveaway #1: [https://twitter.com/floorbots/status/1555569330850476032](https://twitter.com/floorbots/status/1555569330850476032)
 
 Twitter Whitelist Giveaway #2: [https://twitter.com/floorbots/status/1556737511959003137](https://twitter.com/floorbots/status/1556737511959003137)
+
+Twitter Whitelist Giveaway #3: [https://twitter.com/floorbots/status/1559190264845111297](https://twitter.com/floorbots/status/1559190264845111297)
+
+Discord Giveaway #1 concluded August 14th, 2022 in the server.&#x20;

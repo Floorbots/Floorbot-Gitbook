@@ -6,6 +6,8 @@ coverY: 0
 
 # 📫 Listings
 
+NFTCalendar.io: [https://nftcalendar.io/event/floorbots/](https://nftcalendar.io/event/floorbots/)
+
 Next Drop: [https://nextdrop.is/project/12585](https://nextdrop.is/project/12585)
 
 Rise Angle: [https://riseangle.com/nft-calendar/event/floorbots](https://riseangle.com/nft-calendar/event/floorbots)
