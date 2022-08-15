@@ -16,7 +16,7 @@ coverY: -291.80616740088107
 
 ### Open Sea: TBA
 
-### Utility: Blue Chip NFT Rewards via [Dabs](floorbots/welcome-to-floorbots/dabs/)
+### Utility: [Blue Chip NFT](https://twitter.com/kokid951/status/1559246761058701312) Rewards via [Dabs](floorbots/welcome-to-floorbots/dabs/)
 
 ### Follow us on Twitter [@Floorbots](https://twitter.com/floorbots) _#DabtheFloor_
 

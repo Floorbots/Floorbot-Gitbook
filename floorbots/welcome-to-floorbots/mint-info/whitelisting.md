@@ -19,3 +19,5 @@ Twitter Whitelist Giveaway #2: [https://twitter.com/floorbots/status/15567375119
 Twitter Whitelist Giveaway #3: [https://twitter.com/floorbots/status/1559190264845111297](https://twitter.com/floorbots/status/1559190264845111297)
 
 Discord Giveaway #1 concluded August 14th, 2022 in the server.&#x20;
+
+Discord Giveaway #2 runs through August 18th, 2022 in the #whitelisting channel
