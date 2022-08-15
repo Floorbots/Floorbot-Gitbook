@@ -12,9 +12,7 @@ coverY: 0
 
 :blue\_circle: Twitter: [@Floorbots](https://twitter.com/floorbots)
 
-:purple\_circle: Discord: TBA
-
-:red\_circle: NFT Calendar: TBA
+:purple\_circle: Discord: [https://discord.gg/eUbcXxBRFV](https://discord.gg/eUbcXxBRFV)
 
 :green\_circle: Rarity Checker: TBA
 
