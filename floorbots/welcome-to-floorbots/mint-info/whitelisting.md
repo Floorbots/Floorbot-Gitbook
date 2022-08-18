@@ -8,9 +8,9 @@ coverY: 0
 
 ### Whitelisting opportunities arise on [Twitter](https://twitter.com/floorbots) & in Discord.
 
-There were six chances to win a free whitelist spot spread across both social channels.&#x20;
+There will be six chances to win a free whitelist spot spread across both social channels. Turn on notifications and be ready to do whatever action is required to earn a free mint.
 
-Please note - if you win a free WL spot and don't use it. Or if you miss the opportunity to mint, it is solely your responsibility. Free Whitelist minting is only possible through the 21st of August 2022 \
+Please note - if you win a free WL spot and don't use it. Or if you miss the opportunity to mint, it is solely your responsibility. Details on how to mint from the whiltelist will be provided soon. \
 \
 Twitter Whitelist Giveaway #1: [https://twitter.com/floorbots/status/1555569330850476032](https://twitter.com/floorbots/status/1555569330850476032)
 
@@ -18,8 +18,6 @@ Twitter Whitelist Giveaway #2: [https://twitter.com/floorbots/status/15567375119
 
 Twitter Whitelist Giveaway #3: [https://twitter.com/floorbots/status/1559190264845111297](https://twitter.com/floorbots/status/1559190264845111297)
 
-Twitter Whitelist Giveaway #4: [https://twitter.com/floorbots/status/1560299556608303105](https://twitter.com/floorbots/status/1560299556608303105)
+Discord Giveaway #1 concluded August 14th, 2022 in the server.&#x20;
 
-Discord Giveaway #1 concluded August 14th, 2022, in the server.&#x20;
-
-Discord Giveaway #2 concluded August 18th, 2022, in the server.&#x20;
+Discord Giveaway #2 runs through August 18th, 2022 in the #whitelisting channel
