@@ -14,7 +14,7 @@ coverY: -291.80616740088107
 
 ### Mint Site: [Floorbots.xyz](https://floorbots.xyz)
 
-### Open Sea: TBA
+### Open Sea: [https://opensea.io/collection/floorbotsxyz](https://opensea.io/collection/floorbotsxyz)
 
 ### Utility: [Blue Chip NFT](https://twitter.com/kokid951/status/1559246761058701312) Rewards via [Dabs](floorbots/welcome-to-floorbots/dabs/)
 

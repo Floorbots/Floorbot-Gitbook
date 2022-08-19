@@ -16,6 +16,8 @@ coverY: 0
 
 :green\_circle: Rarity Checker: TBA
 
-​​:ocean: Open Sea: TBA
+​​:ocean: Open Sea: [https://opensea.io/collection/floorbotsxyz](https://opensea.io/collection/floorbotsxyz)
 
-:eyes: Looks Rare: TBA
+:eyes: Looks Rare: [https://looksrare.org/collections/0x19088a3FF37b6E40f847ca66050Db3D201fb899B](https://looksrare.org/collections/0x19088a3FF37b6E40f847ca66050Db3D201fb899B)
+
+:heavy\_multiplication\_x: X2Y2: [https://x2y2.io/collection/floorbotsxyz/items](https://x2y2.io/collection/floorbotsxyz/items)
