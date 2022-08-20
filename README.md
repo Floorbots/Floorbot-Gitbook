@@ -8,6 +8,8 @@ coverY: -291.80616740088107
 
 ### Floorbots public mint goes live August 22, 2022 @ 22 UTC
 
+Free Whitelist Mints are available now through the time public mint starts
+
 ### Mint price: 0.05 ETH
 
 ### Collection Size: 10,000
