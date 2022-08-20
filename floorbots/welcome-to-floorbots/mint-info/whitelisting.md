@@ -8,9 +8,9 @@ coverY: 0
 
 ### Whitelisting opportunities arise on [Twitter](https://twitter.com/floorbots) & in Discord.
 
-There will be six chances to win a free whitelist spot spread across both social channels. Turn on notifications and be ready to do whatever action is required to earn a free mint.
+There were six chances to win a free whitelist spot spread across both social channels.&#x20;
 
-Please note - if you win a free WL spot and don't use it. Or if you miss the opportunity to mint, it is solely your responsibility. Details on how to mint from the whiltelist will be provided soon. \
+Please note - if you win a free WL spot and don't use it. Or if you miss the opportunity to mint, it is solely your responsibility. Free Whitelist minting is only possible through the 21st of August 2022 \
 \
 Twitter Whitelist Giveaway #1: [https://twitter.com/floorbots/status/1555569330850476032](https://twitter.com/floorbots/status/1555569330850476032)
 
@@ -18,6 +18,65 @@ Twitter Whitelist Giveaway #2: [https://twitter.com/floorbots/status/15567375119
 
 Twitter Whitelist Giveaway #3: [https://twitter.com/floorbots/status/1559190264845111297](https://twitter.com/floorbots/status/1559190264845111297)
 
-Discord Giveaway #1 concluded August 14th, 2022 in the server.&#x20;
+Twitter Whitelist Giveaway #4: [https://twitter.com/floorbots/status/1560299556608303105](https://twitter.com/floorbots/status/1560299556608303105)
 
-Discord Giveaway #2 runs through August 18th, 2022 in the #whitelisting channel
+Discord Giveaway #1 concluded August 14th, 2022, in the server.&#x20;
+
+Discord Giveaway #2 concluded August 18th, 2022, in the server.&#x20;
+
+#### Whitelisted Addresses
+
+Each is eligible to mint 2 Floorbots (in a single tx!)
+
+| 0x9d32bbe66240e4c242c2323ff4e8109364afb38e |
+| ------------------------------------------ |
+| 0x03b32dFAF2FE2708B8797646bbf884238cB61c7D |
+| 0x8C8DC783E68D8Eaa1aDB04adEcDbd1E10e8Cd209 |
+| 0x564A45029B6ADDd7BcABA9DF0F9eE072D560BD05 |
+| 0x626620f913A02F8d3BC45009E4b18888faa6C0c6 |
+| 0xf1a30950b64fA548c85FBAE586e1e41698883046 |
+| 0xdDbAd1796a4504B111FCbC8AdD476479607ae72D |
+| 0xBA0B498603959798fdDDcc70f48Fe8e0ea890B8A |
+| 0xAee5A5A36EcE88e5e6a36c38AE242bfb273D9003 |
+| 0xB0C615D0e6231E9bfeeB08fC2a9B3a6ee86F7342 |
+| 0x132EAb0241088566749A075EE66fa571F843A6bb |
+| 0x49Aa336a23F7361eD39F2a7fB20c2e81BDb09E84 |
+| 0x4f7af7dCB69A8b6603880e66219457cCDd17D7b3 |
+| 0x62A9CD8fe33669bF500df551A0b0Ba051f98A786 |
+| 0x084ebb7b78495c1b57ea5681955e44213A626545 |
+| 0x996B74d2Bd14310435253742dc7E81eCB791547d |
+| 0x6DB0581756e5bc4e525D77fD50fA340f149D16A7 |
+| 0x04843A8fC28b583fB2C7B177C108f846dc3BB962 |
+| 0x37139740058531A3D6B9AD5aFB33edD39b0a8978 |
+| 0x3335B5B3E0D869728A6aB10fF581CCf8b5566f03 |
+| 0x88D575492fBF8c8f3283dC8e20ccA529f2B02Cf7 |
+| 0x4015470D16C2580814E58e5ab0703b50bf543eE5 |
+| 0xAc4682eF9fE8c62980cd8bd8d8a3Bb100FD652e7 |
+| 0x474Db1a45fC674f51c93a58E0d97aEdbBA1cE602 |
+| 0x6d10aB9b038122124de213a2BA8C9E6234fF3D4c |
+| 0xc3e30203e1a3C006c1b3f7D20A65FA1350E717B7 |
+| 0x395bd4eFbED44675474201670f8013E2D15b3862 |
+| 0x19340E90F6F53C428f1E340c3970F40454314fE7 |
+| 0x17a7534c74cE7651909A5c28Af31761C04Cad973 |
+| 0x8D84A902D13D260406afd701c4b871E05765eC12 |
+| 0x1A17Aa3D2A58241EfB198fFED42D135b81B40a23 |
+| 0x95e53B2638b2042Ba617f81F49C0b0b18c66FCA6 |
+| 0x30e1a171BCc4Cc863d373DC4d650fb9B8861f905 |
+| 0x6c1cc9c0f32980Ead12373e5312EE046D00664bE |
+| 0x04843A8fC28b583fB2C7B177C108f846dc3BB962 |
+| 0x00D0A494798ED7A771A78E0B8b277B76Df11a3b1 |
+| 0xE03Df0F0182aC73CAA48D8c718A44D3e5Ce5B637 |
+| 0x0d3ADcad1A47Ca3288DFB3AEDF7FE1C86aCF50cd |
+| 0x2005E770d3A3E4fE503E3b930B6Ff77014D3C37e |
+| 0x4F2bD8ad60698C914E22BC80b19aa766DC5b5A21 |
+| 0xd8206A0aC8D275a88842D7064E9e682575a11e3f |
+| 0x0649b3a78a11523985eb5a82917c7040ba2a60C8 |
+| 0x85a31ea0a88038a2c36bcac5d45381252F1e358b |
+| 0x1eA7A800A9678Dad83a47bB60da4AFc54f1Bc36B |
+| 0x49dC9F21Ea628Ef4d04560016418Fff427397CeF |
+| 0x37139740058531A3D6B9AD5aFB33edD39b0a8978 |
+| 0xb795163480dD5CDCAD3c2f2FD200B7f4C917C4B7 |
+| 0x8553A262098d4054799D8195c4bf3f0b1615581d |
+| 0x77f2b838C1731ACd8810cf81c5C2c054FB1D9a82 |
+| 0x7F9F101D111115131A57F8cb5868476D9f0079D1 |
+| 0xF5D1484BD80c0d50CA945D53948D9CB6386f39cd |
