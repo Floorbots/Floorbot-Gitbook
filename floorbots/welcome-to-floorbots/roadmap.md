@@ -10,7 +10,7 @@ coverY: 49.55947136563877
 * [x] First Tweet
 * [x] Open Discord
 * [x] Giveaway 100 Free WL Spots
-* [ ] Open Public Mint
+* [x] Open Public Mint
 * [ ] First secondary market sale
 * [x] Mint Floorbot #69
 * [ ] Mint Floorbot #420
