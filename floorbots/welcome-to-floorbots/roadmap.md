@@ -12,7 +12,7 @@ coverY: 49.55947136563877
 * [x] Giveaway 100 Free WL Spots
 * [ ] Open Public Mint
 * [ ] First secondary market sale
-* [ ] Mint Floorbot #69
+* [x] Mint Floorbot #69
 * [ ] Mint Floorbot #420
 * [ ] First Dab after Mint #1,000
 * [ ] Second Dab after Mint #2,000
